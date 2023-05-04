@@ -1,4 +1,4 @@
-# simone
+# Simoné
 3.007 Design Thinking and Innovation Project
 
 To find out more about the problem statement and our product
