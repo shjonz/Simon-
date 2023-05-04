@@ -37,6 +37,9 @@ if ( (timeNow - previousTimeYELLOWLEDBlink > BlinkDelay) && (yellowledblink == 1
           }
       }
 So here, what we are doing is we create a timeline for the 4 different lights to keep blinking every 400ms, then this code here will check the current timing and check if the button has been pressed. If it has not been pressed the lights will keep blinking. Here is a link for more in depth explanation.
+
+https://user-images.githubusercontent.com/81726240/236251582-85ecd31c-8456-46ab-837b-0baec7b0ebe2.mp4
+
 https://forum.arduino.cc/t/how-to-make-2-leds-blink-at-the-same-time/366237/11
 
 
