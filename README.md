@@ -62,6 +62,6 @@ Simoné uses external arduino modules:
 - FastLED - https://fastled.io/
 
 
-# Footer
+## Footer
 
 icon taken from <a href="https://www.flaticon.com/free-icons/simon" title="simon icons">Simon icons created by Freepik - Flaticon</a>
