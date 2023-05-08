@@ -60,3 +60,8 @@ Simoné uses external arduino modules:
 - pcm - https://reference.arduino.cc/reference/en/libraries/pcm/
 - SD - https://www.arduino.cc/reference/en/libraries/sd/
 - FastLED - https://fastled.io/
+
+
+# Footer
+
+icon taken from <a href="https://www.flaticon.com/free-icons/simon" title="simon icons">Simon icons created by Freepik - Flaticon</a>
