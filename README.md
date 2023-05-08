@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/81726240/236753609-0c0368a9-387d-4d5c-b8dc-19bcba547e64.png" width="100" height="100">
+# <img src="https://user-images.githubusercontent.com/81726240/236753609-0c0368a9-387d-4d5c-b8dc-19bcba547e64.png" width="400" height="500">
 3.007 Design Thinking and Innovation Project
 
 ![-6273701404518494801_121](https://user-images.githubusercontent.com/81726240/236242987-be57f8b7-8c14-4e7c-9357-81b1b73a56ae.jpg)
