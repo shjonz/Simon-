@@ -30,7 +30,7 @@ Multithreading was required as at the start of the game, in order for players to
 
 Due to arudino being single threaded, we had to figure a work around this. We implemented multithreading by using the function millis(). This gives the illusion of the arudino doing multiple things at once when in reality it is still doing things within a single thread. Below is a snippet of the code.
 
-![carbon](https://user-images.githubusercontent.com/81726240/236753647-738ad873-23d7-4708-a07d-82f0ff7adf6e.png)
+![carbon](https://user-images.githubusercontent.com/81726240/236753875-ac4c3b07-4719-4631-ac33-c4a46c628458.png)
 
 So here, what we are doing is we create a timeline for the 4 different lights to keep blinking every 400ms, then this code here will check the current timing and check if the button has been pressed. If it has not been pressed the lights will keep blinking. Here is a link for more in depth explanation.
 
